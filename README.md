@@ -36,3 +36,4 @@ TaskBoard дозволяє створювати завдання, ставити
 1. Склонуй репозиторій:
 ```bash
 git clone [https://github.com/vishnevska/taskboard.git](https://github.com/vishnevska/taskboard.git)
+[Відкрити сайт] https://vishnevska.github.io/taskboard/
